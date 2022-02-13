@@ -23,3 +23,4 @@
 - TekSayi.java
 - UcakBileti.java
 - ikiKuvveti.java
+- ExponentialNumber
