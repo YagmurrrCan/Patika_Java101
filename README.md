@@ -24,3 +24,4 @@
 - UcakBileti.java
 - ikiKuvveti.java
 - ExponentialNumber
+- HarmonikSeri
